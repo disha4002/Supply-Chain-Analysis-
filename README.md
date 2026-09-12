@@ -13,23 +13,14 @@ The objective is to move beyond descriptive reporting and identify **business pr
 ## 🎯 Business Problem
 
 E-commerce businesses need to balance fast and reliable delivery with operational efficiency and profitability.
-<br>
 This analysis aims to answer questions such as:
-<br>
 * How effectively is the supply chain performing?
-* <br>
 * What proportion of orders are delayed?
-* <br>
 * Which regions and markets experience the highest delivery risk?
-* <br>
 * Which shipping modes contribute to delays?
-* <br>
 * Are certain customer segments more affected by delivery issues?
-* <br>
 * How do delays relate to profitability?
-* <br>
 * Which operational areas should management prioritize?
-* <br>
 * What opportunities exist to improve delivery performance and profitability?
 
 ### Business Flow
